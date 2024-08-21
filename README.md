@@ -48,3 +48,8 @@ An experience I would like to share and I want to know your results.
 
 
 
+iam use
+llama-b3604-bin-win-openblas-x64
+
+
+
